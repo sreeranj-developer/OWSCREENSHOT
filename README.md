@@ -16,3 +16,6 @@ Enter This Command to Use
 ```
 owscreenshot
 ```
+
+Dependencies
+> Depends: Imagemagick , wmctrl
